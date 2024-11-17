@@ -10,5 +10,11 @@
     "type": "string",
     "default": "",
     "required": true
+  },
+  "url": {
+    "title": "Server URL",
+    "type": "string",
+    "default": "",
+    "required": false
   }
 }
